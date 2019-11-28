@@ -3,6 +3,7 @@ using namespace std;
 
 // global variable declaration
 int a = 17;
+const int b = 17;
 
 // defining constants
 #define SWAG "max";
@@ -10,9 +11,5 @@ int a = 17;
 #define LINEBREAK '\n';
 
 int main() {
-    string t = "sayonara";
-    cout << SWAG;
-    cout << LINEBREAK;
-    cout << MILES;
-    cout << '\n';
+    b = b
 }
